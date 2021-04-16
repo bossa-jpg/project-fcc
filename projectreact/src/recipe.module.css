@@ -1,0 +1,16 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(70, 41, 55);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+    color: white;
+    align-items: center;
+    min-width: 40%;
+    max-width: 50%;
+}
+.image{
+    margin: 20px;
+}
